@@ -18,7 +18,7 @@ This repository is the single source of truth for the **Fintech/Services 3X AI N
 - 3X increase in AI-assisted task coverage across PDLC phases
 
 **Current Program Highlights (as of May 2026):**
-- **94.73%** Claude Code adoption across Prometheus pilot teams
+- **98.6%** Agentic Coding Developer Adoption across Fintech
 - **430** PRs/week on the IBCC team (AI-assisted)
 - **8X** velocity improvement demonstrated by Alpha 2 Payroll team
 - **203 hours** saved via SREBot automation
