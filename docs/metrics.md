@@ -6,7 +6,7 @@
 
 ## Overview
 
-This document defines the full measurement framework for the Fintech/Services 3X AI Native PDLC Transformation (Project Prometheus). It covers primary outcome metrics, leading indicators, data sources, and the process for establishing and validating the 3X baseline.
+This document defines the full measurement framework for the Fintech/Services 3X AI Native PDLC Transformation (Fintech / Services / 3X AI Native PDLC Transformation Program). It covers primary outcome metrics, leading indicators, data sources, and the process for establishing and validating the 3X baseline.
 
 ---
 
@@ -14,15 +14,15 @@ This document defines the full measurement framework for the Fintech/Services 3X
 
 **3X** is defined as a 3-times measurable improvement from the established baseline across four primary outcome dimensions. Baselines will be fully established in M1 (end of Q2 2026). The 3X target is validated at M7 (Q1 2027).
 
-**Early Evidence from Prometheus Pilot (May 2026):**
+**Early Evidence from Fintech / Services / 3X AI Native PDLC Transformation Program Pilot (May 2026):**
 
 | Signal | Team | Value | Notes |
 |--------|------|-------|-------|
-| Velocity multiplier | Alpha 2 — Payroll | **8X** | Demonstrated velocity improvement vs. pre-Prometheus baseline |
+| Velocity multiplier | Alpha 2 — Payroll | **8X** | Demonstrated velocity improvement vs. pre-Fintech / Services / 3X AI Native PDLC Transformation Program baseline |
 | PR throughput | Alpha 1 — IBCC | **430 PRs/week** | AI-assisted; sustained for multiple weeks |
 | System availability | 59ers / Five Niners | **99.998%** | Maintained through AI-native operations workflows |
 | Engineering hours saved | SREBot (cross-team) | **203 hrs/period** | Automation replacing manual on-call and incident response |
-| Claude Code adoption | All pilot teams | **94.73%** | Active usage across 15 Prometheus teams |
+| Claude Code adoption | All pilot teams | **94.73%** | Active usage across 15 3X AI Native PDLC teams |
 
 These signals are leading indicators, not yet the formal M1 baseline. They strongly suggest 3X targets are achievable.
 
@@ -68,9 +68,9 @@ These signals are leading indicators, not yet the formal M1 baseline. They stron
 |--|-------|
 | **Data Source** | Claude Code telemetry; tooling usage logs per task/ticket |
 | **Measurement Frequency** | Weekly |
-| **Current Baseline (Pilot)** | **94.73% Claude Code adoption** across Prometheus pilot teams |
+| **Current Baseline (Pilot)** | **94.73% Claude Code adoption** across 3X AI Native PDLC pilot teams |
 | **Formal Baseline** | M1 audit (end of Q2 2026) — full PDLC phase coverage audit |
-| **3X Target** | 3X of pre-Prometheus benchmark (estimated from M1 audit) |
+| **3X Target** | 3X of pre-Fintech / Services / 3X AI Native PDLC Transformation Program benchmark (estimated from M1 audit) |
 
 ---
 
@@ -105,7 +105,7 @@ These metrics signal progress before 3X outcomes are visible at scale.
 | PR Velocity (IBCC) | PRs merged per week on IBCC team | **430/week** | GitHub | Weekly |
 | SREBot Hours Saved | Engineering hours saved via SREBot automation | **203 hrs/period** | Automation telemetry | Per period |
 | AI Champion Activity | # of active AI Champions (coaching, sharing, demos) | TBD | Champions tracking | Monthly |
-| Teams on AI-Native PDLC | % of Prometheus pilot teams actively using AI-native workflows | **13 of 15 live** | TPM tracking | Bi-weekly |
+| Teams on AI-Native PDLC | % of 3X AI Native PDLC pilot teams actively using AI-native workflows | **13 of 15 live** | TPM tracking | Bi-weekly |
 | MCP Access Coverage | % of pilot teams with full MCP server access | TBD (blocker) | Platform tracking | Weekly |
 
 ---
@@ -129,7 +129,7 @@ These metrics provide engineering performance context alongside the 3X metrics.
 |--------|---------|---------|-----------|
 | Weekly Leading Indicator Digest | Claude Code DAU, PR velocity, SREBot savings, teams live | Program team | Weekly |
 | Bi-Weekly Leadership Report | All metrics with trend, active blockers, pilot highlights | Steering committee | Bi-weekly |
-| Monthly Exec Summary | 3X progress vs. baseline, risks, asks, Prometheus GA status | Exec sponsors | Monthly |
+| Monthly Exec Summary | 3X progress vs. baseline, risks, asks, Program GA status | Exec sponsors | Monthly |
 | Phase-Gate Assessment Report | Full metric review at each milestone | All stakeholders | Per milestone |
 | 3X Validation Report | Final comparison of all metrics vs. baseline | Exec sponsors + all | Q1 2027 |
 
@@ -137,7 +137,7 @@ These metrics provide engineering performance context alongside the 3X metrics.
 
 ## Baseline Establishment Checklist (M1)
 
-- [ ] JIRA data export: feature cycle time (last 6 months, pre-Prometheus)
+- [ ] JIRA data export: feature cycle time (last 6 months, pre-Fintech / Services / 3X AI Native PDLC Transformation Program)
 - [ ] Incident data export: escaped defects (last 4 quarters)
 - [ ] DevEx survey instrument designed and approved
 - [ ] DevEx survey administered to all Fintech/Services engineers
@@ -156,5 +156,5 @@ These metrics provide engineering performance context alongside the 3X metrics.
 | McKinsey Developer Velocity Index — https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/developer-velocity-how-software-excellence-fuels-business-performance | Developer velocity framework and benchmarks |
 | Accelerate (Forsgren, Humble, Kim) | Engineering performance science — underpins DORA framework |
 | SPACE Framework (GitHub/Microsoft) — https://queue.acm.org/detail.cfm?id=3454124 | Developer productivity dimensions (Satisfaction, Performance, Activity, Communication, Efficiency) |
-| Prometheus Demos & Learnings Bi-Weekly Meeting Notes (internal) | Source of pilot team metrics: 430 PRs/wk, 8X velocity, 94.73% adoption, 203 hrs SREBot, 99.998% availability |
+| 3X AI Native PDLC Demos 3X AI Native PDLC Demos & Learnings Learnings Bi-Weekly Meeting Notes (internal) | Source of pilot team metrics: 430 PRs/wk, 8X velocity, 94.73% adoption, 203 hrs SREBot, 99.998% availability |
 | Fintech/Services AI Agentic Transformation Program Doc (internal) | Source of program OKRs and workstream structure |

@@ -6,13 +6,13 @@
 
 ## Purpose
 
-Standardize and operate the AI tooling stack that Fintech/Services engineers use across every PDLC phase. This workstream eliminates tool fragmentation, ensures platform-grade reliability, and provides the infrastructure foundation for the Prometheus AI-native developer experience — including Claude Code, MCP servers, context graphs, and skill-based development.
+Standardize and operate the AI tooling stack that Fintech/Services engineers use across every PDLC phase. This workstream eliminates tool fragmentation, ensures platform-grade reliability, and provides the infrastructure foundation for the Fintech / Services / 3X AI Native PDLC Transformation Program AI-native developer experience — including Claude Code, MCP servers, context graphs, and skill-based development.
 
 ---
 
 ## Objectives
 
-1. Operate the standardized Prometheus AI tooling stack across all 15 pilot teams
+1. Operate the standardized Fintech / Services / 3X AI Native PDLC Transformation Program AI tooling stack across all 15 pilot teams
 2. Resolve MCP server access for all pilot teams (current active blocker)
 3. Complete compliance review of full AI tooling stack
 4. Extend self-service provisioning to full Fintech/Services rollout (Phase 2)
@@ -20,7 +20,7 @@ Standardize and operate the AI tooling stack that Fintech/Services engineers use
 
 ---
 
-## Prometheus AI Tooling Stack (Current State — May 2026)
+## Fintech / Services / 3X AI Native PDLC Transformation Program AI Tooling Stack (Current State — May 2026)
 
 | PDLC Phase | Tool Category | Deployed Tool | Status |
 |-----------|--------------|--------------|--------|
@@ -42,7 +42,7 @@ Standardize and operate the AI tooling stack that Fintech/Services engineers use
 ## Core Platform Components
 
 ### Claude Code
-Claude Code is the primary AI coding assistant deployed across all Prometheus pilot teams. As of May 2026:
+Claude Code is the primary AI coding assistant deployed across all 3X AI Native PDLC pilot teams. As of May 2026:
 - **Adoption:** 94.73% of pilot team engineers actively using Claude Code
 - **Usage:** Code generation, PR review, test writing, documentation, agentic task execution
 - **Configuration:** Teams configure `.claude/` directories with team-specific context and skills
@@ -51,7 +51,7 @@ Claude Code is the primary AI coding assistant deployed across all Prometheus pi
 MCP servers extend Claude Code with access to internal Intuit systems and data — JIRA, Confluence, internal APIs, deployment pipelines. They are the connective tissue between Claude Code and Intuit's developer ecosystem.
 - **Current status:** Partially deployed; some pilot teams do not yet have MCP access
 - **Blocker:** MCP server provisioning gating — escalated to Platform Engineering team
-- **Resolution target:** Required for Prometheus GA (mid-June 2026)
+- **Resolution target:** Required for Program GA (mid-June 2026)
 
 ### Context Graphs
 Context graphs provide persistent, structured representations of team knowledge — architecture diagrams, codebase context, product specs — that Claude Code uses as long-running context rather than relying solely on conversation history.
@@ -98,7 +98,7 @@ AI-powered SRE automation for incident detection, triage, and response. Active a
 
 ## OKRs
 
-**Objective:** Operate a standardized, production-grade AI tooling stack enabling all Prometheus pilot teams to develop AI-natively by GA (mid-June 2026).
+**Objective:** Operate a standardized, production-grade AI tooling stack enabling all 3X AI Native PDLC pilot teams to develop AI-natively by GA (mid-June 2026).
 
 | Key Result | Current | Target |
 |-----------|---------|--------|
@@ -133,7 +133,7 @@ AI-powered SRE automation for incident detection, triage, and response. Active a
 
 | Source | Relevance |
 |--------|-----------|
-| Prometheus Demos & Learnings Bi-Weekly Meeting Notes (internal) | Source of real adoption metrics: 94.73% Claude Code, 430 PRs/week, SREBot 203 hrs, 8X Payroll velocity |
+| 3X AI Native PDLC Demos 3X AI Native PDLC Demos & Learnings Learnings Bi-Weekly Meeting Notes (internal) | Source of real adoption metrics: 94.73% Claude Code, 430 PRs/week, SREBot 203 hrs, 8X Payroll velocity |
 | Fintech/Services AI Agentic Transformation Program Doc (internal) | Tooling architecture: MCP, context graphs, skill registry, ADLC model |
 | Anthropic Claude Code Documentation — https://docs.anthropic.com | Claude Code setup, MCP server configuration, agentic mode |
 | MCP Protocol Specification — https://modelcontextprotocol.io | MCP architecture and server implementation reference |

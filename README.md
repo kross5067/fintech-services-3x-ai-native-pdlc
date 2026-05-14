@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository is the single source of truth for the **Fintech/Services 3X AI Native Product Development Lifecycle (PDLC) Transformation** program — internally known as **Project Prometheus**. The goal is to reimagine how Fintech and Services teams at Intuit discover, build, test, and ship — embedding AI natively into every phase of the PDLC to achieve **3X improvement** in velocity, quality, and developer experience.
+This repository is the single source of truth for the **Fintech/Services 3X AI Native Product Development Lifecycle (PDLC) Transformation** program — internally known as **Fintech / Services / 3X AI Native PDLC Transformation Program**. The goal is to reimagine how Fintech and Services teams at Intuit discover, build, test, and ship — embedding AI natively into every phase of the PDLC to achieve **3X improvement** in velocity, quality, and developer experience.
 
 ---
 
@@ -18,7 +18,7 @@ This repository is the single source of truth for the **Fintech/Services 3X AI N
 - 3X increase in AI-assisted task coverage across PDLC phases
 
 **Current Program Highlights (as of May 2026):**
-- **98.6%** Agentic Coding Developer Adoption across Fintech
+- **94.73%** Claude Code adoption across 3X AI Native PDLC pilot teams
 - **430** PRs/week on the IBCC team (AI-assisted)
 - **8X** velocity improvement demonstrated by Alpha 2 Payroll team
 - **203 hours** saved via SREBot automation
@@ -53,9 +53,9 @@ fintech-3x-ai-native-pdlc/
 
 ---
 
-## Prometheus Pilot Teams
+## Fintech / Services / 3X AI Native PDLC Transformation Program Pilot Teams
 
-The following Fintech/Services teams are active in the Prometheus AI-Native PDLC pilot:
+The following Fintech/Services teams are active in the Fintech / Services / 3X AI Native PDLC Transformation Program AI-Native PDLC pilot:
 
 | Team | Domain | Phase |
 |------|--------|-------|
@@ -100,7 +100,7 @@ See [docs/milestones.md](docs/milestones.md) for the full schedule. High-level:
 | M1 — Baseline Metrics Established | Q2 2026 | 🟡 In Progress |
 | M2 — AI Tooling Stack Approved & Deployed | Q2 2026 | 🟡 In Progress |
 | M3 — AI-Native PDLC Workflows Defined | Q2 2026 | 🟡 In Progress |
-| M4 — Pilot Teams Live (Prometheus GA) | Mid-June 2026 | 🟡 In Progress |
+| M4 — Pilot Teams Live (Program GA) | Mid-June 2026 | 🟡 In Progress |
 | M5 — Pilot Phase Gate | End of Q3 2026 | ⚪ Not Started |
 | M6 — Full Fintech/Services Rollout | Q4 2026 | ⚪ Not Started |
 | M7 — 3X Outcomes Validated | Q1 2027 | ⚪ Not Started |
@@ -132,7 +132,7 @@ See [WS6 — Governance & Risk](docs/workstreams/06-governance-risk.md) for the 
 
 ## References & Related Links
 
-- Prometheus Demos & Learnings — Bi-Weekly Meeting Notes (internal Google Doc)
+- 3X AI Native PDLC Demos 3X AI Native PDLC Demos & Learnings Learnings — Bi-Weekly Meeting Notes (internal Google Doc)
 - Fintech/Services AI Agentic Transformation Program Doc (internal Google Doc)
 - Intuit AI Transformation Program — Enablers/Pathfinders Track (internal Confluence)
 - Fintech/Services OKRs (internal)

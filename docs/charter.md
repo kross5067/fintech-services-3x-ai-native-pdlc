@@ -1,4 +1,4 @@
-# Program Charter: Fintech/Services 3X AI Native PDLC Transformation (Project Prometheus)
+# Program Charter: Fintech/Services 3X AI Native PDLC Transformation (Fintech / Services / 3X AI Native PDLC Transformation Program)
 
 > **Version:** 1.1 | **Date:** May 2026 | **Status:** Active — Pilot Phase
 
@@ -6,9 +6,9 @@
 
 ## 1. Program Purpose
 
-The Fintech/Services 3X AI Native PDLC Transformation program (internally: **Project Prometheus**) exists to fundamentally reimagine how Fintech and Services product teams at Intuit develop software. Rather than layering AI tools onto existing processes, this program embeds AI as a native participant at every stage of the Product Development Lifecycle — from discovery through operation — to achieve a 3X step-change in speed, quality, and engineering experience.
+The Fintech/Services 3X AI Native PDLC Transformation program (internally: **Fintech / Services / 3X AI Native PDLC Transformation Program**) exists to fundamentally reimagine how Fintech and Services product teams at Intuit develop software. Rather than layering AI tools onto existing processes, this program embeds AI as a native participant at every stage of the Product Development Lifecycle — from discovery through operation — to achieve a 3X step-change in speed, quality, and engineering experience.
 
-Prometheus is currently in active pilot with 15 teams across Fintech and Services. The GA target is **mid-June 2026**, after which the program shifts to full Fintech/Services rollout.
+Fintech / Services / 3X AI Native PDLC Transformation Program is currently in active pilot with 15 teams across Fintech and Services. The GA target is **mid-June 2026**, after which the program shifts to full Fintech/Services rollout.
 
 ---
 
@@ -20,7 +20,7 @@ Prometheus is currently in active pilot with 15 teams across Fintech and Service
 | Business Unit OKRs | Fintech/Services FY26 OKRs (internal) |
 | Platform Engineering | Platform Roadmap FY26 |
 | AI Transformation Program | Pathfinder/Enabler Program (Intuit-wide) |
-| Prometheus Program | Fintech-specific agentic PDLC initiative |
+| Fintech / Services / 3X AI Native PDLC Transformation Program | Fintech-specific agentic PDLC initiative |
 
 ---
 
@@ -31,7 +31,7 @@ Prometheus is currently in active pilot with 15 teams across Fintech and Service
 - All PDLC phases: Discovery, Design, Build, Test, Ship, Operate
 - AI tooling (Claude Code, MCP servers, context graphs, skill-based dev)
 - PDLC process redesign, enablement, and measurement
-- Pilot teams: 15 active Prometheus teams (see team roster below)
+- Pilot teams: 15 active 3X AI Native PDLC teams (see team roster below)
 
 **Out of Scope:**
 - Payments and Tax business units (separate transformation tracks)
@@ -54,7 +54,7 @@ Prometheus is currently in active pilot with 15 teams across Fintech and Service
 
 ---
 
-## 5. Prometheus Pilot Team Roster
+## 5. Fintech / Services / 3X AI Native PDLC Transformation Program Pilot Team Roster
 
 | Team | Domain | Status | Key Metric |
 |------|--------|--------|-----------|
@@ -110,7 +110,7 @@ The program is successful when, measured from the established baseline:
 | Phase | Timeline | Key Deliverable |
 |-------|----------|-----------------|
 | Phase 0 — Foundation | Q2 2026 (complete) | Charter approved, tooling provisioned, baseline collection started |
-| Phase 1 — Pilot | Now → Mid-June 2026 | Prometheus GA: all 15 teams live on AI-native PDLC |
+| Phase 1 — Pilot | Now → Mid-June 2026 | Program GA: all 15 teams live on AI-native PDLC |
 | Phase 2 — Scale | Q3–Q4 2026 | Full Fintech/Services rollout beyond pilot cohort |
 | Phase 3 — Validate | Q1 2027 | 3X outcomes validated and reported to exec |
 
@@ -119,7 +119,7 @@ The program is successful when, measured from the established baseline:
 - Resolve design system readiness for AI-generated UI
 - Stabilize E2E test suites for agentic workflows
 - Complete compliance review for AI tooling stack
-- Achieve Prometheus GA by mid-June 2026
+- Achieve Program GA by mid-June 2026
 
 ---
 
@@ -173,4 +173,4 @@ See [docs/governance.md](../governance.md) for full decision rights and escalati
 
 ---
 
-*This document is reviewed and re-approved at each phase boundary. Next review: Prometheus GA (mid-June 2026).*
+*This document is reviewed and re-approved at each phase boundary. Next review: Program GA (mid-June 2026).*

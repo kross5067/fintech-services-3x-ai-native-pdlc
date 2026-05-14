@@ -12,7 +12,7 @@
 | M1 | Baseline Metrics Established | Phase 0 | Q2 2026 | 🟡 In Progress | WS5 Lead |
 | M2 | AI Tooling Stack Approved & Deployed | Phase 1 | Q2 2026 | 🟡 In Progress | WS2 Lead |
 | M3 | AI-Native PDLC Workflows Defined | Phase 1 | Q2 2026 | 🟡 In Progress | WS3 Lead |
-| M4 | Prometheus GA — All Pilot Teams Live | Phase 1 | Mid-June 2026 | 🟡 In Progress | Kim Ross |
+| M4 | Program GA — All Pilot Teams Live | Phase 1 | Mid-June 2026 | 🟡 In Progress | Kim Ross |
 | M5 | Pilot Results Reviewed (Phase Gate) | Phase 1→2 | End of Q3 2026 | ⚪ Not Started | Kim Ross |
 | M6 | Full Fintech/Services Rollout | Phase 2 | Q4 2026 | ⚪ Not Started | Kim Ross |
 | M7 | 3X Outcomes Validated | Phase 3 | Q1 2027 | ⚪ Not Started | WS5 Lead |
@@ -31,7 +31,7 @@
 - [x] Governance cadence (steering committee, WS lead sync) active
 - [x] Program GitHub repo live and structured
 - [x] OKRs defined for all workstreams
-- [x] Prometheus pilot team roster confirmed (15 teams)
+- [x] 3X AI Native PDLC pilot team roster confirmed (15 teams)
 
 **Owner:** Kim Ross
 
@@ -97,14 +97,14 @@
 
 ---
 
-### M4 — Prometheus GA — All Pilot Teams Live
+### M4 — Program GA — All Pilot Teams Live
 **Target:** Mid-June 2026 | **Status:** 🟡 In Progress
 **Exit Criteria:**
 - [x] Alpha 1 (IBCC) and Alpha 2 (Payroll) fully live — evidence of 8X velocity and 430 PRs/week
-- [ ] All 15 Prometheus pilot teams onboarded and active on AI-native PDLC
+- [ ] All 15 3X AI Native PDLC pilot teams onboarded and active on AI-native PDLC
 - [ ] MCP access resolved for all teams *(depends on M2 blocker)*
 - [ ] E2E test stability resolved for agentic workflows *(depends on M3)*
-- [ ] Prometheus GA readiness review completed and approved by steering committee
+- [ ] Program GA readiness review completed and approved by steering committee
 - [ ] Pilot measurement instrumentation active across all teams
 
 **Pilot teams still in onboarding:** Critical SMS Risk, Payments Surcharging, AI Model Dev/Capital Onboarding
@@ -116,7 +116,7 @@
 ### M5 — Pilot Results Reviewed (Phase Gate)
 **Target:** End of Q3 2026 | **Status:** ⚪ Not Started
 **Exit Criteria:**
-- [ ] Prometheus GA retrospective published (post mid-June)
+- [ ] Program GA retrospective published (post mid-June)
 - [ ] Cycle time improvement vs. baseline measured for at least 5 pilot teams
 - [ ] Escaped defect rate vs. baseline measured
 - [ ] Developer experience survey results compared to baseline
@@ -174,4 +174,4 @@ Phase gates are go/no-go checkpoints between program phases. The exec sponsor ma
 - [Program Charter](charter.md)
 - [Metrics & Measurement](metrics.md)
 - [Governance Model](governance.md)
-- Prometheus Demos & Learnings — Bi-Weekly Meeting Notes (internal Google Doc)
+- 3X AI Native PDLC Demos 3X AI Native PDLC Demos & Learnings Learnings — Bi-Weekly Meeting Notes (internal Google Doc)

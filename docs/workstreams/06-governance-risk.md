@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Establish the governance structures, decision rights, and risk management practices that allow the Prometheus program to move fast safely. This workstream ensures AI tools and processes meet Intuit's security, compliance, and responsible AI standards — and provides clear escalation paths when blockers arise.
+Establish the governance structures, decision rights, and risk management practices that allow the Fintech / Services / 3X AI Native PDLC Transformation Program to move fast safely. This workstream ensures AI tools and processes meet Intuit's security, compliance, and responsible AI standards — and provides clear escalation paths when blockers arise.
 
 ---
 
@@ -15,7 +15,7 @@ Establish the governance structures, decision rights, and risk management practi
 1. Define program decision rights and escalation paths
 2. Maintain a live program risk register with active mitigation tracking
 3. Ensure all AI tools meet InfoSec and compliance requirements before deployment
-4. Unblock active compliance review to achieve Prometheus GA by mid-June 2026
+4. Unblock active compliance review to achieve Program GA by mid-June 2026
 5. Define and enforce responsible AI usage standards for Fintech/Services teams
 
 ---
@@ -100,7 +100,7 @@ Team-level issue (pilot team or WS)
 | WS Lead Sync | Kim Ross + all WS leads | Weekly | Status, blockers, dependencies |
 | Steering Committee | Kim Ross + VPs Eng | Bi-weekly | Decisions, risks, scope |
 | Exec Sponsor Update | Kim Ross + Exec Sponsor | Monthly | Strategic alignment, budget, escalations |
-| Prometheus Demos & Learnings | All pilot teams + program team | Bi-weekly | Velocity demos, lessons learned sharing |
+| 3X AI Native PDLC Demos 3X AI Native PDLC Demos & Learnings Learnings | All pilot teams + program team | Bi-weekly | Velocity demos, lessons learned sharing |
 | Phase-Gate Review | All stakeholders | Per milestone | Go/no-go for next phase |
 
 ---
@@ -121,7 +121,7 @@ Team-level issue (pilot team or WS)
 
 ## OKRs
 
-**Objective:** Ensure all program decisions, risks, and AI deployments are governed with speed and safety — and that active blockers are resolved in time for Prometheus GA.
+**Objective:** Ensure all program decisions, risks, and AI deployments are governed with speed and safety — and that active blockers are resolved in time for Program GA.
 
 | Key Result | Current | Target |
 |-----------|---------|--------|
@@ -144,7 +144,7 @@ Team-level issue (pilot team or WS)
 
 | Source | Relevance |
 |--------|-----------|
-| Prometheus Demos & Learnings Bi-Weekly Meeting Notes (internal) | Source of active blockers: MCP access, design system, E2E stability, compliance review |
+| 3X AI Native PDLC Demos 3X AI Native PDLC Demos & Learnings Learnings Bi-Weekly Meeting Notes (internal) | Source of active blockers: MCP access, design system, E2E stability, compliance review |
 | Fintech/Services AI Agentic Transformation Program Doc (internal) | Program risk context, workstream dependencies |
 | Intuit Responsible AI Policy (internal) | Compliance and responsible AI requirements |
 | Intuit InfoSec AI Tool Review Process (internal) | Compliance review process and SLA |
