@@ -22,7 +22,10 @@ This is not AI as a tool layered on top of existing workflows. It is AI as the f
 **Role convergence is a feature, not a threat**
 - As AI handles more of the execution layer, the boundaries between roles will naturally blur. This expands what every team member can contribute, rather than diminishing any single function.
 
-
+## Program Principles
+**Individual proficiency is a prerequisite, not the goal**
+- Every team member reaching AI proficiency is a necessary condition for Team AI proficiency, but it is not sufficient. The team must also adopt new ways of working to unlock speed to customer benefit.
+- 
 **3X Targets (measured from baseline):**
 - 3X improvement in feature delivery cycle time
 - 3X reduction in escaped defects
