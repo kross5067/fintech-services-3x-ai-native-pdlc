@@ -4,13 +4,26 @@
 
 ## Overview
 
-This repository is the single source of truth for the **Fintech/Services 3X AI Native Product Development Lifecycle (PDLC) Transformation** program — internally known as **Fintech / Services / 3X AI Native PDLC Transformation Program**. The goal is to reimagine how Fintech and Services teams at Intuit discover, build, test, and ship — embedding AI natively into every phase of the PDLC to achieve **3X improvement** in velocity, quality, and developer experience.
+This repository is the single source of truth for the **Fintech/Services/CoM:3X AI Native PDLC Transformation** program — This is the new updated name combining the Prometheus and the Fintec/Services AI Agentic Transformation program into one.  The goal is to reimagine how Fintech and Services teams at Intuit discover, build, test, and ship — embedding AI natively into every phase of the PDLC to achieve **3X improvement** in velocity, quality, and developer experience.
 
 ---
 
 ## Program Vision
 
 > *Every Fintech/Services team operates with AI as a first-class participant in their PDLC — not a tool bolted on the side, but woven into how we think, design, build, and ship.*
+  *Increase speed to customer benefit by building AI proficiency across all individuals and teams in the product organization. This means accelerating every step of the product development process and redesigning how teams work together as speed will surfaces new process bottlenecks.*
+## Program Principles
+
+> **Individual proficiency is a prerequisite, not the goal1**
+Every team member reaching AI proficiency is a necessary condition for Team AI proficiency, but it is not sufficient. The team must also adopt new ways of working to unlock speed to customer benefit.
+**AI for everyone, regardless of tech aptitude**
+AI is most powerful when enabling those that are not tech proficient to become builders. The program is designed to meet people where they are, with role-appropriate onboarding and support.
+**All roles move together**
+PM, Engineering, Design, Data + others must be brought along in parallel. Team AI proficiency cannot be achieved if any function is left behind, and role convergence will accelerate as AI adoption deepens.
+**Bias to speed**
+We learn AI by doing. Tools are evolving rapidly and the cost of waiting outweighs the cost of imperfection. We ship, measure, and iterate on our products and on our processes.1
+**Role convergence is a feature, not a threat**
+As AI handles more of the execution layer, the boundaries between roles will naturally blur. This expands what every team member can contribute, rather than diminishing any single function.
 
 **3X Targets (measured from baseline):**
 - 3X improvement in feature delivery cycle time
