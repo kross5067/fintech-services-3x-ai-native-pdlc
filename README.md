@@ -1,4 +1,4 @@
-# Fintech/Services 3X AI Native PDLC Transformation
+# Fintech/Services/CoM:3X AI Native PDLC Transformation
 
 > **Program Status:** 🟡 Active — Pilot Phase | **Last Updated:** May 2026 | **TPM:** Kim Ross
 
