@@ -2,7 +2,7 @@
 
 ## Program Overview
 
-> *The Fintech/Services/CoM 3X AI Native PDLC Transformation program reimagines how Fintech, Services, and CoM teams at Intuit discover, build, test, and ship, embedding AI natively into every phase of the Product Development Lifecycle (PDLC) to achieve 3X improvement in feature delivery cycle time, defect reduction, and AI-assisted task coverage.
+> The Fintech/Services/CoM 3X AI Native PDLC Transformation program reimagines how Fintech, Services, and CoM teams at Intuit discover, build, test, and ship, embedding AI natively into every phase of the Product Development Lifecycle (PDLC) to achieve 3X improvement in feature delivery cycle time, defect reduction, and AI-assisted task coverage.
 
 This is not AI as a tool layered on top of existing workflows. It is AI as the foundation of a new operating model.*
 
