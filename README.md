@@ -12,15 +12,11 @@ This is not AI as a tool layered on top of existing workflows. It is AI as the f
 >
 ## Program Principles
 
-Individual proficiency is a prerequisite, not the goal Every team member reaching AI proficiency is a necessary condition for team-level AI proficiency, but it is not sufficient. Teams must also adopt new ways of working to unlock speed to customer benefit.
-
-AI for everyone, regardless of technical background AI is most powerful when it enables non-technical contributors to become builders. The program is designed to meet people where they are, with role-appropriate onboarding and support.
-
-All roles move together PM, Engineering, Design, Data, and other functions must advance in parallel. Team AI proficiency cannot be achieved if any function is left behind. As AI adoption deepens, role convergence will accelerate.
-
-Bias to speed We learn AI by doing. Tools are evolving rapidly, and the cost of waiting outweighs the cost of imperfection. We ship, measure, and iterate — on our products and on our processes.
-
-Role convergence is a feature, not a threat As AI handles more of the execution layer, the boundaries between roles will naturally shift. This expands what every team member can contribute, rather than diminishing any single function.
+- Individual proficiency is a prerequisite, not the goal Every team member reaching AI proficiency is a necessary condition for team-level AI proficiency, but it is not sufficient. Teams must also adopt new ways of working to unlock speed to customer benefit.
+- AI for everyone, regardless of technical background AI is most powerful when it enables non-technical contributors to become builders. The program is designed to meet people where they are, with role-appropriate onboarding and support.
+- All roles move together PM, Engineering, Design, Data, and other functions must advance in parallel. Team AI proficiency cannot be achieved if any function is left behind. As AI adoption deepens, role convergence will accelerate.
+- Bias to speed We learn AI by doing. Tools are evolving rapidly, and the cost of waiting outweighs the cost of imperfection. We ship, measure, and iterate — on our products and on our processes.
+- Role convergence is a feature, not a threat As AI handles more of the execution layer, the boundaries between roles will naturally shift. This expands what every team member can contribute, rather than diminishing any single function.
 
 
 **3X Targets (measured from baseline):**
