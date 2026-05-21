@@ -18,6 +18,45 @@ This is not AI as a tool layered on top of existing workflows. It is AI as the f
 - **Bias to speed** We learn AI by doing. Tools are evolving rapidly and the cost of waiting outweighs the cost of imperfection. We ship, measure, and iterate on our products and on our processes.  
 - **Role convergence is a feature, not a threat** As AI handles more of the execution layer, the boundaries between roles will naturally blur. This expands what every team member can contribute, rather than diminishing any single function.
 
+
+3X Targets
+
+Measured from program baseline:
+
+Metric	Target
+Feature delivery cycle time	3X reduction
+Escaped defects	3X reduction
+AI-assisted task coverage across PDLC phases	3X increase
+Program Metrics (as of May 2026)
+
+Metric	Result
+Claude Code adoption across 3X pilot teams	94.73%
+AI-assisted PRs/week (IBCC team)	430
+Velocity improvement demonstrated by Alpha 2 Payroll team	8X
+Hours saved via SREBot automation	203 hrs
+System availability maintained through AI-native operations	99.998%
+How to Use This Repository
+
+If you want to…	Go to…
+Understand the program structure	/docs/program-overview
+Find your workstream artifacts	/workstreams
+Track milestone status	/milestones
+Access the SteerCo operating model	/docs/steerco
+Review the Prometheus pilot findings	/docs/prometheus
+Note: Directory links above are placeholders — update with actual paths as the repo structure is finalized.
+Key Contacts
+
+Role	Name
+TPM — Fintech/Services	Kim Ross
+Executive Sponsor	James Barrese
+Executive Sponsor	Harith
+Program Lead	See SteerCo charter
+
+
+
+
+
+
 **3X Targets (measured from baseline):**
 
 - 3X improvement in feature delivery cycle time
