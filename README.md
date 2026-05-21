@@ -22,6 +22,7 @@ This is not AI as a tool layered on top of existing workflows. It is AI as the f
 ## Program Principles
 **Individual proficiency is a prerequisite, not the goal**
 - Every team member reaching AI proficiency is a necessary condition for Team AI proficiency, but it is not sufficient. The team must also adopt new ways of working to unlock speed to customer benefit
+
 **AI for everyone, regardless of tech aptitude**
 - AI is most powerful when enabling those that are not tech proficient to become builders. The program is designed to meet people where they are, with role-appropriate onboarding and support
 - 
