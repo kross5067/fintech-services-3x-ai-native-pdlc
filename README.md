@@ -10,8 +10,8 @@ This repository is the single source of truth for the **Fintech/Services/CoM:3X 
 
 ## Program Vision
 
-> *Every Fintech/Services team operates with AI as a first-class participant in their PDLC — not a tool bolted on the side, but woven into how we think, design, build, and ship.*
-  *Increase speed to customer benefit by building AI proficiency across all individuals and teams in the product organization. This means accelerating every step of the product development process and redesigning how teams work together as speed will surfaces new process bottlenecks.*
+> *The 3x AI Native PDLC Transformation Program exists to make AI a first-class participant in how Fintech, Services, and CoM teams think, design, build, and ship — not a tool layered on top of existing workflows, but the foundation of a new operating model. By building AI proficiency across every individual and team in the product organization, we compress time to customer benefit at every stage of the PDLC. As velocity increases, new process bottlenecks surface; redesigning how teams work together is not a side effect of this program — it is part of the work.*
+
 ## Program Principles
 
 > **Individual proficiency is a prerequisite, not the goal1**
