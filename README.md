@@ -19,6 +19,7 @@ This is not AI as a tool layered on top of existing workflows. It is AI as the f
 - **Role convergence is a feature, not a threat** As AI handles more of the execution layer, the boundaries between roles will naturally blur. This expands what every team member can contribute, rather than diminishing any single function.
 
 **3X Targets (measured from baseline):**
+
 - 3X improvement in feature delivery cycle time
 - 3X reduction in escaped defects
 - 3X increase in AI-assisted task coverage across PDLC phases
